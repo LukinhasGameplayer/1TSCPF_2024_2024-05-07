@@ -14,3 +14,4 @@ if n2 > n3:
     n2, n3 = n3, n2
 
 print(f'São menor: {n1}, inter: {n2} e maior: {n3}')
+print('salves')
