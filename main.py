@@ -12,3 +12,4 @@ elif estado == 'ceara':
     print('Você é cearense')
 else:
     print('Você é de outro estado')
+print('salve')
